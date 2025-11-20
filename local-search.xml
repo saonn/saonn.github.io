@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>idea 2025/11/20</title>
+    <link href="/2025/11/20/idea-2025-11-20/"/>
+    <url>/2025/11/20/idea-2025-11-20/</url>
+    
+    <content type="html"><![CDATA[<p>近期偶然，或者说由于需要，发现了格点规范场论(以下简称LGT)和圈量子引力(以下简称LQG)的密切联系，interesting。由于二者的高度相似，使得LQG发展的许多关于规范场的方法可以用在我的工作当中。当然，二者仍然有本质的差别，LQG的是背景无关的，且底流形M仍然连续，只不过是将Hilbertspace，holomony以及flux定义在了graph上，并由graph粘合出M(graph是拓扑的，因而不依赖于背景)。而LGT是定义在离散化的平直时空中。但这也是一种启发,我们是否可以考虑弯曲时空M中的以flux和Wilsonline为基本变量的yangmills理论?具体来说,是将graph嵌入到M中,定义graph上的希尔伯特空间,以及Wilsonline,甚至哈密顿量,而后通过flux-holonomy研究其动力学.这看起来是个想法,等我有时间了试一试.</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Nothing on Nov. 14</title>
     <link href="/2025/11/15/Summary-of-group-meeting-on-Nov-14/"/>
     <url>/2025/11/15/Summary-of-group-meeting-on-Nov-14/</url>
